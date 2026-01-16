@@ -1,0 +1,5 @@
+echo "health" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "temp.csv" >> .gitignore
+echo "reports/" >> .gitignore
+echo "*.o" >> .gitignore
