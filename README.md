@@ -86,7 +86,7 @@ BMI = weight (kg) / (height (m) × height (m))
 * Graphical user interface
 * PDF export
 * Unit testing
-
+By Hanija Edupuganti
 ---
 
 ## 📜 License
